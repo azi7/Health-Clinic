@@ -1,0 +1,34 @@
+C:\Users\khno\source\repos\ProjectWF\ProjectWF\bin\Debug\ProjectWF.exe.config
+C:\Users\khno\source\repos\ProjectWF\ProjectWF\bin\Debug\ProjectWF.exe
+C:\Users\khno\source\repos\ProjectWF\ProjectWF\bin\Debug\ProjectWF.pdb
+C:\Users\khno\source\repos\ProjectWF\ProjectWF\obj\Debug\ProjectWF.csprojAssemblyReference.cache
+C:\Users\khno\source\repos\ProjectWF\ProjectWF\obj\Debug\ProjectWF.Form2.resources
+C:\Users\khno\source\repos\ProjectWF\ProjectWF\obj\Debug\ProjectWF.Properties.Resources.resources
+C:\Users\khno\source\repos\ProjectWF\ProjectWF\obj\Debug\ProjectWF.csproj.GenerateResource.cache
+C:\Users\khno\source\repos\ProjectWF\ProjectWF\obj\Debug\ProjectWF.csproj.CoreCompileInputs.cache
+C:\Users\khno\source\repos\ProjectWF\ProjectWF\obj\Debug\ProjectWF.exe
+C:\Users\khno\source\repos\ProjectWF\ProjectWF\obj\Debug\ProjectWF.pdb
+C:\Users\khno\source\repos\ProjectWF\ProjectWF\obj\Debug\ProjectWF.Login.resources
+C:\Users\khno\source\repos\ProjectWF\ProjectWF\obj\Debug\ProjectWF.DBTables.resources
+C:\Users\khno\source\repos\ProjectWF\ProjectWF\obj\Debug\ProjectWF.Reservation.resources
+C:\Users\khno\source\repos\ProjectWF\ProjectWF\obj\Debug\ProjectWF.DepTB.resources
+C:\Users\khno\source\repos\ProjectWF\ProjectWF\obj\Debug\ProjectWF.DoctorTB.resources
+C:\Users\khno\source\repos\ProjectWF\ProjectWF\obj\Debug\ProjectWF.patientTB.resources
+C:\Users\khno\source\repos\ProjectWF\ProjectWF\obj\Debug\ProjectWF.ReservationDetailes.resources
+C:\Users\win10\OneDrive\سطح المكتب\ProjectWF\bin\Debug\ProjectWF.exe.config
+C:\Users\win10\OneDrive\سطح المكتب\ProjectWF\bin\Debug\ProjectWF.exe
+C:\Users\win10\OneDrive\سطح المكتب\ProjectWF\bin\Debug\ProjectWF.pdb
+C:\Users\win10\OneDrive\سطح المكتب\ProjectWF\obj\Debug\ProjectWF.csproj.AssemblyReference.cache
+C:\Users\win10\OneDrive\سطح المكتب\ProjectWF\obj\Debug\ProjectWF.Login.resources
+C:\Users\win10\OneDrive\سطح المكتب\ProjectWF\obj\Debug\ProjectWF.Form2.resources
+C:\Users\win10\OneDrive\سطح المكتب\ProjectWF\obj\Debug\ProjectWF.patientTB.resources
+C:\Users\win10\OneDrive\سطح المكتب\ProjectWF\obj\Debug\ProjectWF.Reservation.resources
+C:\Users\win10\OneDrive\سطح المكتب\ProjectWF\obj\Debug\ProjectWF.ReservationDetailes.resources
+C:\Users\win10\OneDrive\سطح المكتب\ProjectWF\obj\Debug\ProjectWF.DepTB.resources
+C:\Users\win10\OneDrive\سطح المكتب\ProjectWF\obj\Debug\ProjectWF.DoctorTB.resources
+C:\Users\win10\OneDrive\سطح المكتب\ProjectWF\obj\Debug\ProjectWF.DBTables.resources
+C:\Users\win10\OneDrive\سطح المكتب\ProjectWF\obj\Debug\ProjectWF.Properties.Resources.resources
+C:\Users\win10\OneDrive\سطح المكتب\ProjectWF\obj\Debug\ProjectWF.csproj.GenerateResource.cache
+C:\Users\win10\OneDrive\سطح المكتب\ProjectWF\obj\Debug\ProjectWF.csproj.CoreCompileInputs.cache
+C:\Users\win10\OneDrive\سطح المكتب\ProjectWF\obj\Debug\ProjectWF.exe
+C:\Users\win10\OneDrive\سطح المكتب\ProjectWF\obj\Debug\ProjectWF.pdb
